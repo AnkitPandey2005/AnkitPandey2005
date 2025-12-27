@@ -16,6 +16,45 @@
 
 ---
 
+## 🎨 **INTERACTIVE TERMINAL**
+
+<div align="center">
+
+<pre>
+┌──(arnav@builder)-[~/profile]
+└─$ whoami
+&gt; Full-Stack Developer | Problem Solver | Rapid Prototyper
+
+└─$ cat skills.txt
+&gt; Languages : C++ • Java • Python • JavaScript • TypeScript
+&gt; Frontend  : React • Next.js • Tailwind CSS • Three.js
+&gt; Backend   : Node.js • Express • MongoDB • MySQL
+   &gt;   Tools   : Git • GitHub • Docker • Linux • VS Code • Postman • Figma
+&gt; Deploy    : Vercel • Render • Firebase
+&gt; AI Tools  : Cursor AI • Bolt.new • ChatGPT • GitHub Copilot
+
+└─$ ls achievements/
+&gt; 🧠 600+ DSA problems solved
+&gt; ⚔️ Competitive programming (LeetCode & Codeforces)
+&gt; 📊 Consistent GitHub contributions
+
+└─$ cat hackathon_strengths.txt
+&gt; 🚀 Rapid MVP development & fast prototyping
+&gt; 🔗 End-to-end frontend–backend integration
+&gt; 🔧 Debug-first problem solving
+&gt; 🤝 Team collaboration under tight deadlines
+&gt; 🎯 Demo-ready builds & live deployment
+
+└─$ echo $MOTTO
+&gt; "Build fast. Think clearly. Ship reliably." ⚡
+</pre>
+
+</div>
+
+
+---
+
+
 ## 🚀 **ABOUT THE DEVELOPER**
 
 <img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
