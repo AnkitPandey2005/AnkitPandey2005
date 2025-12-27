@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANKIT%20PANDEY&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ARNAV%20PANDEY&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=51"/>
+
+
+
 
 <!-- Animated Typing Text -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;Always+Learning+%F0%9F%9A%80;Building+the+Future+%E2%9C%A8" alt="Typing SVG" />
@@ -18,7 +21,7 @@
 <div align="center">
 
 <pre>
-┌──(ankit@builder)-[~/profile]
+┌──(arnav@builder)-[~/profile]
 └─$ whoami
 &gt; Full-Stack Developer | Problem Solver | Rapid Prototyper
 
@@ -26,7 +29,7 @@
 &gt; Languages : C++ • Java • Python • JavaScript • TypeScript
 &gt; Frontend  : React • Next.js • Tailwind CSS • Three.js
 &gt; Backend   : Node.js • Express • MongoDB • MySQL
-&gt; Tools     : Git • GitHub • Docker • Linux • VS Code • Postman • Figma
+   &gt;   Tools   : Git • GitHub • Docker • Linux • VS Code • Postman • Figma
 &gt; Deploy    : Vercel • Render • Firebase
 &gt; AI Tools  : Cursor AI • Bolt.new • ChatGPT • GitHub Copilot
 
@@ -47,34 +50,38 @@
 </pre>
 
 </div>
------
+
+
+---
 
 ## 🚀 **ABOUT THE DEVELOPER**
 
 <img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
-const AnkitPandey = {
+const ArnavPandey = {
     location: "India",
     role: "Aspiring Full-Stack Developer",
     education: "Computer Science",
-    currentFocus: ["DSA", "FULL STACK", "AI/ML", "System Design"],
-
+    currentFocus: ["DSA", "FULL STACK","AI/ML","System Design"],
+    
     workingOn: {
         learning: ["Advanced DSA", "Cloud Architecture"],
         building: ["3D Web Experiences", "Open Source Tools"],
         exploring: ["Blockchain", "Neural Networks"]
     },
-
+    
     philosophy: "Build → Break → Learn → Repeat 🔄",
-
+    
     SystemStatus: {
         learning: "Active",
         building: "Ongoing",
         curiosity: "High",
         sleep: "Optional"
-    }
+}
+
 };
+```
 
 <br clear="right"/>
 
