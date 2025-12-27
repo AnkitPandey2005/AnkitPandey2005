@@ -90,8 +90,8 @@ const AnkitPandey = {
 - 🔭 **Currently Building:** Interactive web applications & solving complex problems  
 - 🌱 **Learning:** Advanced algorithms, system design, and cloud architecture  
 - 💬 **Ask Me About:** Data Structures, Web Development, Problem Solving  
-- 📫 **Reach Me:** [pandeyarnav1122004@gmail.com](mailto:ankitpandey212005@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/arnavpandey1](https://linkedin.com/in/ankitpandey2005)  
+- 📫 **Reach Me:** [ankitpandey212005@gmail.com](mailto:ankitpandey212005@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/ankitpandey2005](https://linkedin.com/in/ankitpandey2005)  
 - ⚡ **Fun Fact:** I debug code faster than I debug my life choices 😄  
 - 🎯 **2026 Goal:** Contribute to major open source projects & master DSA , AI & ML , and full-stack development  
 
@@ -189,11 +189,11 @@ const AnkitPandey = {
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AnkitPandey1/ArnavPandey1/main/dist/github-contribution-grid-snake-dark.svg">
+      srcset="https://raw.githubusercontent.com/AnkitPandey2005/AnkitPandey2005/main/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AnkitPandey1/ArnavPandey1/main/dist/github-contribution-grid-snake.svg">
+      srcset="https://raw.githubusercontent.com/AnkitPandey2005/AnkitPandey2005/main/dist/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution grid snake animation"
-      src="https://raw.githubusercontent.com/AnkitPandey1/ArnavPandey1/main/dist/github-contribution-grid-snake.svg">
+      src="https://raw.githubusercontent.com/AnkitPandey2005/AnkitPandey2005/main/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
 <br>
@@ -205,10 +205,10 @@ const AnkitPandey = {
 <div align="center">
 
 <!-- Detailed Contribution Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitPandey1&theme=tokyonight" alt="Contribution Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnkitPandey2005&theme=tokyonight" alt="Contribution Details"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitPandey1&theme=tokyonight" alt="Top Languages by Repo"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnkitPandey1&theme=tokyonight" alt="Top Languages by Commit"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnkitPandey2005&theme=tokyonight" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnkitPandey2005&theme=tokyonight" alt="Top Languages by Commit"/>
 
 </div>
 
